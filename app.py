@@ -1,7 +1,7 @@
 import streamlit as st
 import streamlit.components.v1 as components
 
-st.set_page_config(page_title="Mi Portal de Juegos", layout="wide")
+st.set_page_config(layout="wide")
 
 # El código HTML/JS de tu juego de animales
 codigo_juego = """
